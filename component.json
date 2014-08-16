@@ -2,12 +2,16 @@
   "name": "cursor-within",
   "repo": "bmcmahen/cursor-within",
   "description": "determine if the cursor is within a selector-matched element",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [],
   "dependencies": {
-    "discore/closest": "*"
+    "component/closest": "0.1.4"
   },
-  "development": {},
+  "development": {
+    "component/assert": "*",
+    "component/dom": "*",
+    "bmcmahen/selection-range": "*"
+  },
   "license": "MIT",
   "main": "index.js",
   "scripts": [
