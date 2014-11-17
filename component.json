@@ -2,7 +2,7 @@
   "name": "cursor-within",
   "repo": "bmcmahen/cursor-within",
   "description": "determine if the cursor is within a selector-matched element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [],
   "dependencies": {
     "component/closest": "0.1.4"

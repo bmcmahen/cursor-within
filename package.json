@@ -1,0 +1,30 @@
+{
+  "name": "cursor-within",
+  "version": "1.0.1",
+  "description": "determine which element the cursor is currently in",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmcmahen/cursor-within.git"
+  },
+  "keywords": [
+    "cursor",
+    "selection",
+    "range"
+  ],
+  "author": "Ben McMahen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmcmahen/cursor-within/issues"
+  },
+  "homepage": "https://github.com/bmcmahen/cursor-within",
+  "dependencies": {
+    "component-closest": "^0.1.4"
+  }
+}
