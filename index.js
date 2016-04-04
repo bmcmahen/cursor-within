@@ -2,7 +2,7 @@
  * Module dependencies
  */
 
-var closest = require('component-closest');
+var closest = require('closest');
 
 var TEXT_NODE_TYPE = 3;
 

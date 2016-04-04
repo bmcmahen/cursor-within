@@ -1,6 +1,6 @@
 {
   "name": "cursor-within",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "determine which element the cursor is currently in",
   "main": "index.js",
   "directories": {
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/bmcmahen/cursor-within",
   "dependencies": {
-    "component-closest": "^0.1.4"
+    "closest": "^0.0.1"
   }
 }
