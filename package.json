@@ -1,6 +1,6 @@
 {
   "name": "cursor-within",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "determine which element the cursor is currently in",
   "main": "index.js",
   "directories": {

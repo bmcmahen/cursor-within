@@ -2,13 +2,7 @@
  * Module dependencies
  */
 
-var closest;
-
-try {
-  closest = require('component-closest');
-} catch(e) {
-  closest = require('closest');
-}
+var closest = require('component-closest');
 
 var TEXT_NODE_TYPE = 3;
 
