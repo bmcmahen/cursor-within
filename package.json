@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/bmcmahen/cursor-within",
   "dependencies": {
-    "closest": "^0.0.1"
+    "element-closest": "^1.0.3"
   }
 }
